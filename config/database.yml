@@ -1,7 +1,7 @@
 development:
  database: vinay
  adapter: postgresql
- username: postgres
+ username: postgre
  password: 12345678
  host: localhost
  pool: 5

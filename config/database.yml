@@ -6,3 +6,12 @@ development:
  host: localhost
  pool: 5
  timeout: 5000
+
+
+production:
+ adapter: postgresql
+ encoding: unicode
+ database: vinay
+ pool: 5
+ username: postgre
+ password: 12345678

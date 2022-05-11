@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello Guys!!
 
-Things you may want to cover:
+Below is the link where you see these project...
 
-* Ruby version
+https://myblog342.herokuapp.com/
 
-* System dependencies
+Keep Coding:-
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
